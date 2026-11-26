@@ -11,6 +11,7 @@ Maintained by [HSKBoost](https://hskboost.com/en/).
 | Path | Format | Use |
 | --- | --- | --- |
 | [overview.md](./syllabus/overview.md) | Markdown | Exam levels, question structure, duration and scoring. |
+| [common-topics.md](./topics/common-topics.md) | Markdown | Common speaking topics and Chinese keywords by HSKK level. |
 | [2026-2027-schedule.md](./exam-dates/2026-2027-schedule.md) | Markdown | Confirmed exam dates and delivery formats. |
 | [hskk-2026-2027.ics](./exam-dates/hskk-2026-2027.ics) | iCalendar | All-day events for calendar import. |
 

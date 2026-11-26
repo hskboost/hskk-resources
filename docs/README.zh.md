@@ -11,6 +11,7 @@
 | 路径 | 格式 | 用途 |
 | --- | --- | --- |
 | [overview.md](../syllabus/overview.md) | Markdown | 按级别速查题型、题量、时长和评分。 |
+| [common-topics.md](../topics/common-topics.md) | Markdown | 按 HSKK 初、中、高级整理的常见口语练习话题与中文关键词。 |
 | [2026-2027-schedule.md](../exam-dates/2026-2027-schedule.md) | Markdown | 已确认的考试日期和考试形式。 |
 | [hskk-2026-2027.ics](../exam-dates/hskk-2026-2027.ics) | iCalendar | 可导入日历的全天事件。 |
 

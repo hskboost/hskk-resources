@@ -11,6 +11,7 @@
 | Путь | Формат | Назначение |
 | --- | --- | --- |
 | [overview.md](../syllabus/overview.md) | Markdown | Уровни, структура заданий, продолжительность и оценивание. |
+| [common-topics.md](../topics/common-topics.md) | Markdown | Типичные темы для устной практики и китайские ключевые слова по уровням HSKK. |
 | [2026-2027-schedule.md](../exam-dates/2026-2027-schedule.md) | Markdown | Подтверждённые даты и форматы экзамена. |
 | [hskk-2026-2027.ics](../exam-dates/hskk-2026-2027.ics) | iCalendar | События на весь день для импорта в календарь. |
 

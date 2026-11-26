@@ -11,6 +11,7 @@
 | Зам | Формат | Хэрэглээ |
 | --- | --- | --- |
 | [overview.md](../syllabus/overview.md) | Markdown | Түвшин, даалгаврын бүтэц, үргэлжлэх хугацаа, үнэлгээний тойм. |
+| [common-topics.md](../topics/common-topics.md) | Markdown | HSKK-ийн түвшин бүрийн ярианы түгээмэл сэдэв ба хятад түлхүүр үгс. |
 | [2026-2027-schedule.md](../exam-dates/2026-2027-schedule.md) | Markdown | Баталгаажсан шалгалтын огноо ба хэлбэр. |
 | [hskk-2026-2027.ics](../exam-dates/hskk-2026-2027.ics) | iCalendar | Хуанлид импортлох бүтэн өдрийн үйл явдал. |
 

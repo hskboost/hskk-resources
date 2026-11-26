@@ -11,6 +11,7 @@ Mantenido por [HSKBoost](https://hskboost.com/es/).
 | Ruta | Formato | Uso |
 | --- | --- | --- |
 | [overview.md](../syllabus/overview.md) | Markdown | Niveles, estructura de las preguntas, duración y puntuación. |
+| [common-topics.md](../topics/common-topics.md) | Markdown | Temas habituales de práctica oral y palabras clave en chino por nivel de HSKK. |
 | [2026-2027-schedule.md](../exam-dates/2026-2027-schedule.md) | Markdown | Fechas y modalidades de examen confirmadas. |
 | [hskk-2026-2027.ics](../exam-dates/hskk-2026-2027.ics) | iCalendar | Eventos de día completo para importar al calendario. |
 

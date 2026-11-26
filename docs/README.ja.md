@@ -11,6 +11,7 @@
 | パス | 形式 | 用途 |
 | --- | --- | --- |
 | [overview.md](../syllabus/overview.md) | Markdown | 受験級、出題構成、試験時間、採点の一覧。 |
+| [common-topics.md](../topics/common-topics.md) | Markdown | HSKKの級別によく練習する口頭試験の話題と中国語キーワード。 |
 | [2026-2027-schedule.md](../exam-dates/2026-2027-schedule.md) | Markdown | 確認済みの試験日と実施形式。 |
 | [hskk-2026-2027.ics](../exam-dates/hskk-2026-2027.ics) | iCalendar | カレンダーに取り込める終日予定。 |
 

@@ -11,6 +11,7 @@ Quản lý bởi [HSKBoost](https://hskboost.com/vi/).
 | Đường dẫn | Định dạng | Công dụng |
 | --- | --- | --- |
 | [overview.md](../syllabus/overview.md) | Markdown | Tóm tắt cấp độ, cấu trúc đề, thời lượng và cách chấm điểm. |
+| [common-topics.md](../topics/common-topics.md) | Markdown | Chủ đề luyện nói thường gặp và từ khóa tiếng Trung theo cấp độ HSKK. |
 | [2026-2027-schedule.md](../exam-dates/2026-2027-schedule.md) | Markdown | Ngày thi và hình thức thi đã được xác nhận. |
 | [hskk-2026-2027.ics](../exam-dates/hskk-2026-2027.ics) | iCalendar | Sự kiện cả ngày để nhập vào lịch. |
 

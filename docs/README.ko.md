@@ -11,6 +11,7 @@
 | 경로 | 형식 | 용도 |
 | --- | --- | --- |
 | [overview.md](../syllabus/overview.md) | Markdown | 급수, 문항 구성, 시험 시간, 채점 기준을 정리했습니다. |
+| [common-topics.md](../topics/common-topics.md) | Markdown | HSKK 급수별 주요 말하기 주제와 중국어 핵심 어휘. |
 | [2026-2027-schedule.md](../exam-dates/2026-2027-schedule.md) | Markdown | 확인된 시험일과 시행 방식입니다. |
 | [hskk-2026-2027.ics](../exam-dates/hskk-2026-2027.ics) | iCalendar | 캘린더로 가져올 수 있는 종일 일정입니다. |
 

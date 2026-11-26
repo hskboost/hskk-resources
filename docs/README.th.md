@@ -11,6 +11,7 @@
 | พาธ | รูปแบบ | การใช้งาน |
 | --- | --- | --- |
 | [overview.md](../syllabus/overview.md) | Markdown | สรุประดับ โครงสร้างข้อสอบ ระยะเวลา และการให้คะแนน |
+| [common-topics.md](../topics/common-topics.md) | Markdown | หัวข้อฝึกพูดที่พบบ่อยและคำสำคัญภาษาจีนแยกตามระดับ HSKK |
 | [2026-2027-schedule.md](../exam-dates/2026-2027-schedule.md) | Markdown | วันสอบและรูปแบบการสอบที่ได้รับการยืนยัน |
 | [hskk-2026-2027.ics](../exam-dates/hskk-2026-2027.ics) | iCalendar | กิจกรรมตลอดวันสำหรับนำเข้าปฏิทิน |
 
