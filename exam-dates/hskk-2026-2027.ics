@@ -1,0 +1,126 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HSKBoost//Exam Dates//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:HSKK exam dates 2026–2027
+BEGIN:VEVENT
+UID:hskk-2026-12-13@hskboost.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:HSKK scheduled exam
+DESCRIPTION:Paper-based / Internet-based at a test center. Confirm local av
+ ailability with your test center.
+URL:https://hskboost.com/en/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:hskk-2027-01-09@hskboost.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:HSKK scheduled exam
+DESCRIPTION:Paper-based / Internet-based at a test center. Confirm local av
+ ailability with your test center.
+URL:https://hskboost.com/en/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:hskk-2027-03-14@hskboost.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:HSKK scheduled exam
+DESCRIPTION:Paper-based / Internet-based at a test center. Confirm local av
+ ailability with your test center.
+URL:https://hskboost.com/en/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:hskk-2027-04-10@hskboost.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:HSKK scheduled exam
+DESCRIPTION:Paper-based / Internet-based at a test center. Confirm local av
+ ailability with your test center.
+URL:https://hskboost.com/en/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:hskk-2027-05-16@hskboost.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:HSKK scheduled exam
+DESCRIPTION:Paper-based / Internet-based at a test center. Confirm local av
+ ailability with your test center.
+URL:https://hskboost.com/en/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:hskk-2027-06-26@hskboost.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+SUMMARY:HSKK scheduled exam
+DESCRIPTION:Paper-based / Internet-based at a test center. Confirm local av
+ ailability with your test center.
+URL:https://hskboost.com/en/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:hskk-2027-07-18@hskboost.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+SUMMARY:HSKK scheduled exam
+DESCRIPTION:Paper-based / Internet-based at a test center. Confirm local av
+ ailability with your test center.
+URL:https://hskboost.com/en/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:hskk-2027-08-21@hskboost.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20270821
+DTEND;VALUE=DATE:20270822
+SUMMARY:HSKK scheduled exam
+DESCRIPTION:Paper-based / Internet-based at a test center. Confirm local av
+ ailability with your test center.
+URL:https://hskboost.com/en/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:hskk-2027-09-12@hskboost.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20270912
+DTEND;VALUE=DATE:20270913
+SUMMARY:HSKK scheduled exam
+DESCRIPTION:Paper-based / Internet-based at a test center. Confirm local av
+ ailability with your test center.
+URL:https://hskboost.com/en/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:hskk-2027-10-16@hskboost.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20271016
+DTEND;VALUE=DATE:20271017
+SUMMARY:HSKK scheduled exam
+DESCRIPTION:Paper-based / Internet-based at a test center. Confirm local av
+ ailability with your test center.
+URL:https://hskboost.com/en/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:hskk-2027-11-07@hskboost.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20271107
+DTEND;VALUE=DATE:20271108
+SUMMARY:HSKK scheduled exam
+DESCRIPTION:Paper-based / Internet-based at a test center. Confirm local av
+ ailability with your test center.
+URL:https://hskboost.com/en/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:hskk-2027-12-11@hskboost.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20271211
+DTEND;VALUE=DATE:20271212
+SUMMARY:HSKK scheduled exam
+DESCRIPTION:Paper-based / Internet-based at a test center. Confirm local av
+ ailability with your test center.
+URL:https://hskboost.com/en/calendar/
+END:VEVENT
+END:VCALENDAR
